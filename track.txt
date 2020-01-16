@@ -2,4 +2,4 @@ Test sentence.
 Additional line.
 Exploring history.
 GIT BASH
-A different sentence.
+Hi How are you?
